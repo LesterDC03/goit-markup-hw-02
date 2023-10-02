@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-First task on GO IT
+# goit-markup-hw-02
+Second task on GO IT
